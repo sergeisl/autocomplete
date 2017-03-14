@@ -1,0 +1,33 @@
+{
+  "name": "Autocomplete__",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "baron": "^2.2.9",
+    "browser-sync": "^2.18.8",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "^3.2.0",
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-json-minify": "^1.0.7",
+    "gulp-uglify": "^2.1.0",
+    "react-hot-loader": "^1.3.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.14"
+  },
+  "scripts": {
+    "dev": "gulp",
+    "build": "gulp build"
+  },
+  "author": "Sergei Sazhin",
+  "license": "ISC"
+}
